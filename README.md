@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Development and testing projects<br>👯 I’m looking to collaborate on building new and scalable applications<br>🤝 I’m currently learning AI Tools, Automation, Devops tools and development frameworks<br>💬 ⚡ Fun fact I have an amazing sense of humour
+🔭 I’m currently working on Development and Software Automation projects<br>👯 I’m looking to collaborate on building new and scalable applications<br>🤝 I’m currently learning AI Tools, Automation, Devops tools and development frameworks<br>💬 ⚡ Fun fact I have an amazing sense of humour
 
 
 ## 🌐 Socials:
